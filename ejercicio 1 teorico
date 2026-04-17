@@ -1,0 +1,4 @@
+1. POO es la programacion orientada a objetos la cual se utiliza para reutilizar codigo con mayor eficiencia, modelar problemas reales y facilitar la escalabilidad de un proyecto
+2. los 4 pilares de POO son: encapsulamiento, abstraccion, herencia, polimorfismo
+3. en una clase se define los parametros que tendra el objeto, la funcion es una linea de codigo que realiza una accion especifica
+4. es un metodo que se ejecuta para crear el objeto de una clase, en este se especifica: los valores que tiene la clase y los atributos del objeto
